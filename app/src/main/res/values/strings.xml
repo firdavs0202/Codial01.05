@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">01.05</string>
+    <string name="button">Button</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="add">Add</string>
+    <string name="close">Close</string>
+</resources>
